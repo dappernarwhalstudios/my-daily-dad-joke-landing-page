@@ -17,12 +17,13 @@ The dad jokes have officially landed!
 
 #### 🎉 What's New
 - Daily random dad jokes delivered with love and cringe.
-- Swipe to favorite your top picks.
+- Tap the heart icon to favorite your top picks.
 - Add the Dad Joke Widget to your Home Screen for a fresh joke every day.
 - Share jokes with friends via Messages, social media, or interpretive dance.
 - Minimal, clean design built for pure joke enjoyment.
 - Light and dark mode support based on your device preferences.
 - Option to remove ads with a one-time in-app purchase.
+- Schedule a daily reminder to get your dad joke exactly when you want it.
 
 ---
 

@@ -57,9 +57,9 @@ features:
     description: Go ad-free with a one-time upgrade and support the app while keeping the laughs coming.
     fontawesome_icon_name: hand-holding-heart
 
-  - title: Built with SwiftUI
-    description: Smooth animations and native performance using Apple’s latest UI framework.
-    fontawesome_icon_name: rocket
+  - title: Schedule Joke Notifications
+    description: Set a daily reminder to get your dad joke exactly when you need a laugh.
+    fontawesome_icon_name: bell
 
 
 

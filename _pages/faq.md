@@ -20,8 +20,9 @@ The app automatically refreshes with a new joke every day. Just open it up and e
 
 ---
 
-### 🧩 Can I save or favorite jokes?
-Yes! Tap the star icon to mark a joke as a favorite. You can view all your saved jokes anytime from the Favorites tab.
+### ❤️ Can I save or favorite jokes?
+Yes! Tap the heart icon to mark a joke as a favorite. You can view all your saved jokes anytime from the Favorites tab.
+
 
 ---
 
@@ -29,6 +30,13 @@ Yes! Tap the star icon to mark a joke as a favorite. You can view all your saved
 Definitely! Add the *My Daily Dad Joke* widget to your home screen so you never miss a laugh. Just long-press your home screen, tap the `+`, and search for our widget.
 
 ---
+
+### ⏰ Can I schedule when I get the joke?
+Yes! Head to the Settings tab in the app to pick a time that works best for you. You’ll get your daily dad joke like clockwork.
+
+
+---
+
 
 ### 📤 Can I share jokes with friends?
 Absolutely! You can share your favorite dad jokes via text, social media, or any app that supports sharing.
