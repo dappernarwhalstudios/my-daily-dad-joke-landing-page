@@ -41,7 +41,7 @@ Definitely! Add the *My Daily Dad Joke* widget to your home screen so you never 
 ---
 
 ### ⏰ Can I schedule when I get the joke?
-Yes! Head to the Settings tab in the app to pick a time that works best for you. You’ll get your daily dad joke like clockwork.
+Yes! Head to the Preferences tab in the app to pick a time that works best for you. You’ll get your daily dad joke like clockwork.
 
 
 ---
