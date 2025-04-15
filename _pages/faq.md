@@ -20,9 +20,18 @@ The app automatically refreshes with a new joke every day. Just open it up and e
 
 ---
 
+### ➕ What if I want more jokes?
+Need an extra laugh? Just swipe left to load a random dad joke from the archive.
+
+---
+
+### 🕰 How do I see previous days' jokes?
+Swipe right to revisit jokes from previous days.
+
+---
+
 ### ❤️ Can I save or favorite jokes?
 Yes! Tap the heart icon to mark a joke as a favorite. You can view all your saved jokes anytime from the Favorites tab.
-
 
 ---
 
