@@ -51,7 +51,7 @@ We're here for you! Email us at [dappernarwhalstudios+support@gmail.com](mailto:
 ---
 
 ### 🕵️‍♂️ Do you collect any personal data?
-Nope. We respect your privacy. Check out our [Privacy Policy](/privacypolicy) for all the details.
+Nope. We respect your privacy. Check out our [Privacy Policy]({{ site.baseurl }}/privacypolicy) for all the details.
 
 ---
 
