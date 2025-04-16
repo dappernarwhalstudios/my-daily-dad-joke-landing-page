@@ -20,9 +20,10 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 :
+your_name                                 : &nbsp;
 your_link                                 :
-your_city                                 : 
+your_city                                 : &nbsp;
+
 email_address                             : dappernarwhalstudios+support@gmail.com
 linkedin_username                         :
 linkedin_company                          :                                           
