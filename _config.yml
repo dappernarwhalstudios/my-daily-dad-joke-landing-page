@@ -29,7 +29,7 @@ linkedin_company                          :
 facebook_username                         :                                           
 instagram_username                        :
 twitter_username                          :
-github_username                           : 
+github_username                           :
 youtube_username                          :
 mastodon_link                             :
 
@@ -42,7 +42,7 @@ features:
     fontawesome_icon_name: calendar-alt
 
   - title: Home Screen Widget
-    description: Never miss a laugh with a convenient widget that puts your daily joke front and center.
+    description: Never miss a laugh with a convenient widget that keeps your daily joke just a glance away.
     fontawesome_icon_name: th-large
 
   - title: Save and Share Favorites
@@ -50,7 +50,7 @@ features:
     fontawesome_icon_name: heart
 
   - title: Clean and Simple Design
-    description: Enjoy a clutter-free experience that keeps the jokes front and center.
+    description: Enjoy a clutter-free interface that puts the humor where it belongs—right in your hands.
     fontawesome_icon_name: smile
 
   - title: Ad-Free Upgrade Available
@@ -60,7 +60,6 @@ features:
   - title: Schedule Joke Notifications
     description: Set a daily reminder to get your dad joke exactly when you need a laugh.
     fontawesome_icon_name: bell
-
 
 
 
