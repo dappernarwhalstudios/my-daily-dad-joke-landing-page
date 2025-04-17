@@ -35,6 +35,11 @@ Yes! Tap the heart icon to mark a joke as a favorite. You can view all your save
 
 ---
 
+### Will I lose my favorites if I change phones?
+Nope! Just sign in with Apple or Google to keep your favorites synced across all your devices. It's quick, secure, and helps you pick up right where you left off.
+
+---
+
 ### Is there a widget?
 Definitely! Add the *My Daily Dad Joke* widget to your home screen so you never miss a laugh. Just long-press your home screen, tap the `+`, and search for our widget.
 
