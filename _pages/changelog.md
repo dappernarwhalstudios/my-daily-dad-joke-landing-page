@@ -10,8 +10,24 @@ Stay up to date with the latest improvements and updates to *My Daily Dad Joke*.
 
 ---
 
+## **Version 1.2** – Coming Soon
+
+#### ✨ What's New
+- Add widget configuration options for:
+  - Background color
+  - Font typeface
+
+---
+ 
+## **Version 1.1** – April 17, 2025
+
+#### 🔧 What's Fixed
+- Fixed a potential crash when the user's network becomes unavailable.
+
+---
+
 ### 🚀 Initial Release  
-## **Version 1.0** – April 2025
+## **Version 1.0** – April 16, 2025
 
 The dad jokes have officially landed!
 
@@ -29,4 +45,3 @@ The dad jokes have officially landed!
 
 > Want to suggest a feature or report a bug?  
 [Email Us](mailto:dappernarwhalstudios+support@gmail.com)
-
