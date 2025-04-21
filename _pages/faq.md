@@ -45,6 +45,20 @@ Definitely! Add the *My Daily Dad Joke* widget to your home screen so you never 
 
 ---
 
+### Can I customize the widget?
+Yes! Our widget now supports customization 
+You can change the **background color** and **font style** to better match your home screen vibe.  
+To configure your widget:
+1. Long-press the *My Daily Dad Joke* widget on your home screen  
+2. Tap **Edit Widget**  
+3. Choose your preferred background and font  
+4. Done! Enjoy your personalized daily pun
+
+*Note: If you had the widget added before updating to version 1.2 and don’t see the new edit options, try removing and re-adding it to ensure the customization settings apply correctly.*
+
+---
+
+
 ### Can I schedule when I get the joke?
 Yes! Head to the Preferences tab in the app to pick a time that works best for you. You’ll get your daily dad joke like clockwork.
 

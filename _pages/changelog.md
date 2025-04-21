@@ -10,7 +10,7 @@ Stay up to date with the latest improvements and updates to *My Daily Dad Joke*.
 
 ---
 
-## **Version 1.2** – Coming Soon
+## **Version 1.2** – April 22, 2025
 
 #### ✨ What's New
 - Add widget configuration options for:
@@ -19,15 +19,15 @@ Stay up to date with the latest improvements and updates to *My Daily Dad Joke*.
 
 ---
  
-## **Version 1.1** – April 17, 2025
+## **Version 1.1** – April 18, 2025
 
 #### 🔧 What's Fixed
-- Fixed a potential crash when the user's network becomes unavailable.
+- Bugfix for a potential crash due to the user's network becoming unavailable.
 
 ---
 
 ### 🚀 Initial Release  
-## **Version 1.0** – April 16, 2025
+## **Version 1.0** – April 17, 2025
 
 The dad jokes have officially landed!
 
