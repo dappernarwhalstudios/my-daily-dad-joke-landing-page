@@ -8,6 +8,19 @@ include_in_header: true
 
 Stay up to date with the latest improvements and updates to *My Daily Dad Joke*.
 
+
+## **Version 1.4** - Coming Soon
+### What's New
+- Custom Joke Feed: Choose the categories you want — from food to history to Halloween — and get jokes tailored to your taste.
+- Curated Categories: Enjoy hand-picked jokes sorted into themed categories.
+
+---
+
+## **Version 1.3** – April 24, 2025
+
+#### What's New
+- Smarter Experience: Improved duplicate joke detection helps keep things fresh.
+
 ---
 
 ## **Version 1.2** – April 22, 2025
