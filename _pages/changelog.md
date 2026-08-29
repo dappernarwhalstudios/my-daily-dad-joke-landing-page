@@ -9,10 +9,11 @@ include_in_header: true
 Stay up to date with the latest improvements and updates to *My Daily Dad Joke*.
 
 
-## **Version 1.4** - Coming Soon
-### What's New
-- Custom Joke Feed: Choose the categories you want — from food to history to Halloween — and get jokes tailored to your taste.
-- Curated Categories: Enjoy hand-picked jokes sorted into themed categories.
+## **Version 2.0** - Coming Soon
+#### 🎨 What's New
+- Custom Themes: Give your daily joke a new look — nine themes from a clean classic style to full Comedy Club energy to a hand-drawn Chalkboard look. Applies across the app and your widget.
+- Joke Categories: Choose from a dozen categories — Family, Food, Animals, Work, Halloween, Science, Sports, Music, Literary, Travel, History, and Christmas — and mix as many as you like.
+- Smarter Refills: Categories no longer run dry — once you've heard everything new, we bring back old favorites instead of leaving you hanging.
 
 ---
 

@@ -45,19 +45,17 @@ Definitely! Add the *My Daily Dad Joke* widget to your home screen so you never 
 
 ---
 
-### Can I customize the widget?
-Yes! Our widget now supports customization 
-You can change the **background color** and **font style** to better match your home screen vibe.  
-To configure your widget:
-1. Long-press the *My Daily Dad Joke* widget on your home screen  
-2. Tap **Edit Widget**  
-3. Choose your preferred background and font  
-4. Done! Enjoy your personalized daily pun
+### Can I change how the app looks?
+Yes! Themes let you give your daily joke a whole new look—nine to choose from, everything from a clean classic style to full Comedy Club energy (dim stage lighting, mic stand and all) to Chalkboard (hand-drawn, a little dusty, very "dad teaching a lesson"). Pick one from the menu, and it applies across the app *and* your widget—no separate widget setup needed anymore.
 
-*Note: If you had the widget added before updating to version 1.2 and don’t see the new edit options, try removing and re-adding it to ensure the customization settings apply correctly.*
+*Note: Themes replaced the old per-widget background/font customization from version 1.2. If you had the widget configured that way before updating, your widget now follows whichever theme you pick in the app.*
 
 ---
 
+### Can I choose what kind of jokes I get?
+Yep! Categories let you pick the kind of jokes you want—Family, Food, Animals, Work, Halloween, Science, Sports, Music, Literary, Travel, History, and Christmas—and you can mix more than one at once for extra variety. Each category shows you how many jokes it has before you pick it, and once you've heard everything new in a category, the app loops back through old favorites instead of leaving you with nothing.
+
+---
 
 ### Can I schedule when I get the joke?
 Yes! Head to the Preferences tab in the app to pick a time that works best for you. You’ll get your daily dad joke like clockwork.

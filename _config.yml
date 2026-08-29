@@ -42,8 +42,16 @@ features:
     description: Start your day with a fresh dad joke delivered daily—no repeats, just pure pun power.
     fontawesome_icon_name: calendar-alt
 
+  - title: Custom Themes
+    description: Give your daily joke a new look—from a clean classic style to full Comedy Club energy to a chalkboard doodle. Applies everywhere, including your widget.
+    fontawesome_icon_name: palette
+
+  - title: Pick Your Categories
+    description: Choose from a dozen categories—Family, Food, Animals, Work, and more—and mix as many as you like for extra variety.
+    fontawesome_icon_name: layer-group
+
   - title: Home Screen Widget
-    description: Never miss a laugh with a convenient widget that keeps your daily joke just a glance away.
+    description: Never miss a laugh with a widget that keeps your daily joke just a glance away, matching whichever theme you've picked.
     fontawesome_icon_name: th-large
 
   - title: Save and Share Favorites
