@@ -13,7 +13,6 @@ Curious minds welcome. My Daily Fact delivers one genuinely interesting fact a d
 <div style="display: flex; gap: 20px; overflow-x: auto; padding: 16px 0 8px;">
 	<img src="{{ '/assets/my-daily-fact/screenshots/default.png' | relative_url }}" alt="My Daily Fact default theme" style="width: 200px; flex-shrink: 0;">
 	<img src="{{ '/assets/my-daily-fact/screenshots/categories.png' | relative_url }}" alt="Choosing fact categories" style="width: 200px; flex-shrink: 0;">
-	<img src="{{ '/assets/my-daily-fact/screenshots/themepicker.png' | relative_url }}" alt="Theme picker" style="width: 200px; flex-shrink: 0;">
 	<img src="{{ '/assets/my-daily-fact/screenshots/chalkboard.png' | relative_url }}" alt="Chalkboard theme" style="width: 200px; flex-shrink: 0;">
 </div>
 
