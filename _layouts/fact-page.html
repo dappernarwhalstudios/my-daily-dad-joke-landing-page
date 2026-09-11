@@ -24,7 +24,7 @@
 	<div class="headerBackground subPageHeaderBackground">
 		<div class="container subPageContainer">
 			<header>
-				<div class="logo">
+				<a class="logo" href="{{ '/my-daily-fact/' | relative_url }}" target="_self">
 					<div class="appIconShadow">
 						<svg width="0" height="0">
 							<defs>
@@ -37,9 +37,10 @@
 						<div class="divider"></div>
 					</div>
 					<p class="headerName">My Daily Fact <span style="font-size: 0.5em; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: #fff; background: #F0A93C; border-radius: 999px; padding: 0.25em 0.65em; vertical-align: middle; margin-left: 0.4em;">Beta</span></p>
-				</div>
+				</a>
 				<nav class="scroll">
 					<ul>
+						<li><a href="{{ '/my-daily-fact/' | relative_url }}" target="_self">Home</a></li>
 						<li><a href="{{ '/my-daily-fact/privacypolicy/' | relative_url }}" target="_self">Privacy Policy</a></li>
 						<li><a href="{{ '/my-daily-fact/faq/' | relative_url }}" target="_self">FAQ</a></li>
 					</ul>
